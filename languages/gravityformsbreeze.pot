@@ -1,0 +1,141 @@
+# Copyright (C) 2020 Gravity Forms
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms Breeze Add-On 1.5\n"
+"Report-Msgid-Bugs-To: https://gravityforms.com/support\n"
+"Last-Translator: Gravity Forms <support@gravityforms.com>\n"
+"Language-Team: Gravity Forms <support@gravityforms.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-09-24T18:02:41+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: gravityformsbreeze\n"
+
+#. Plugin Name of the plugin
+msgid "Gravity Forms Breeze Add-On"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://gravityforms.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrates Gravity Forms with Breeze, allowing form submissions to be automatically sent to your Breeze account."
+msgstr ""
+
+#. Author of the plugin
+msgid "Gravity Forms"
+msgstr ""
+
+#: class-gf-breeze.php:185
+msgid "Create Breeze card only when payment is received."
+msgstr ""
+
+#: class-gf-breeze.php:207
+msgid "API Token"
+msgstr ""
+
+#: class-gf-breeze.php:215
+msgid "Breeze settings have been updated."
+msgstr ""
+
+#: class-gf-breeze.php:242
+msgid "Feed Name"
+msgstr ""
+
+#: class-gf-breeze.php:247
+#: class-gf-breeze.php:281
+#: class-gf-breeze.php:527
+msgid "Name"
+msgstr ""
+
+#: class-gf-breeze.php:247
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr ""
+
+#: class-gf-breeze.php:251
+#: class-gf-breeze.php:528
+msgid "Breeze Project"
+msgstr ""
+
+#: class-gf-breeze.php:255
+msgid "Unable to retrieve Projects from Breeze."
+msgstr ""
+
+#: class-gf-breeze.php:260
+#: class-gf-breeze.php:529
+msgid "Breeze List"
+msgstr ""
+
+#: class-gf-breeze.php:264
+msgid "Unable to retrieve Project Lists from Breeze."
+msgstr ""
+
+#: class-gf-breeze.php:289
+msgid "Description"
+msgstr ""
+
+#: class-gf-breeze.php:294
+msgid "Due Date"
+msgstr ""
+
+#: class-gf-breeze.php:295
+msgid "days after today"
+msgstr ""
+
+#: class-gf-breeze.php:301
+msgid "Assign Users to Card"
+msgstr ""
+
+#: class-gf-breeze.php:303
+msgid "Unable to retrieve Project Users from Breeze."
+msgstr ""
+
+#: class-gf-breeze.php:310
+msgid "Feed Conditional Logic"
+msgstr ""
+
+#: class-gf-breeze.php:316
+#: class-gf-breeze.php:319
+msgid "Conditional Logic"
+msgstr ""
+
+#: class-gf-breeze.php:317
+msgid "Enable"
+msgstr ""
+
+#: class-gf-breeze.php:318
+msgid "Export to Breeze if"
+msgstr ""
+
+#: class-gf-breeze.php:319
+msgid "When conditional logic is enabled, form submissions will only be exported to Breeze when the condition is met. When disabled, all form submissions will be posted."
+msgstr ""
+
+#: class-gf-breeze.php:353
+msgid "Select a Breeze Project"
+msgstr ""
+
+#: class-gf-breeze.php:397
+msgid "Select a Breeze List"
+msgstr ""
+
+#: class-gf-breeze.php:464
+msgid "No Due Date"
+msgstr ""
+
+#: class-gf-breeze.php:634
+msgid "Feed was not processed because API was not initialized."
+msgstr ""
+
+#: class-gf-breeze.php:691
+msgid "Card could not be created because no name was provided."
+msgstr ""
+
+#: class-gf-breeze.php:700
+msgid "Card could not be created: "
+msgstr ""

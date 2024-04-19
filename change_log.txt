@@ -1,0 +1,30 @@
+### 1.5 | 2020-09-24
+- Added support for Gravity Forms 2.5.
+
+
+### 1.4 | 2020-03-30
+- Added translations for Hebrew, Hindi, Japanese, and Turkish.
+- Added support for feed duplication.
+- Fixed PHP 7.4 notices which occur on the feed configuration page when creating a new feed.
+- Fixed a PHP fatal error which occurs when accessing an existing feed after the add-on is connected to a different Breeze account.
+
+
+### 1.3 | 2018-04-09
+- Added security enhancements.
+- Added GPL to plugin header.
+- Updated Plugin URI and Author URI to use https.
+- Fixed a PHP warning regarding http_build_query.
+
+
+### 1.2 | 2017-05-16
+- Updated plugin description to be consistent with other Gravity Forms add-ons.
+- Fixed strings for translations.
+- Fixed an issue where a due date of Jan 1, 1970 was set on the card.
+
+
+### 1.1 | 2016-05-16
+- Fixed a fatal error when using Gravity Forms 1.9.x.
+
+
+### 1.0 | 2016-05-12
+- It's all new!
