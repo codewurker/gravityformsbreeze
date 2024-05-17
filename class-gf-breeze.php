@@ -153,6 +153,15 @@ class GF_Breeze extends GFFeedAddOn {
 	protected $_capabilities = array( 'gravityforms_breeze', 'gravityforms_breeze_uninstall' );
 
 	/**
+	 * Enabling background feed processing to prevent performance issues delaying form submission completion.
+	 *
+	 * @since 1.6
+	 *
+	 * @var bool
+	 */
+	protected $_async_feed_processing = true;
+
+	/**
 	 * Returns an instance of this class, and stores it in the $_instance property.
 	 *
 	 * @since  1.0

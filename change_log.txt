@@ -1,3 +1,6 @@
+### 1.6.0 | 2024-05-16
+- Added support for async (background) feed processing to improve form submission performance.
+
 ### 1.5 | 2020-09-24
 - Added support for Gravity Forms 2.5.
 
